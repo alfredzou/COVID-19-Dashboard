@@ -8,20 +8,20 @@ My commentary can be found [here.](https://alfredzou.github.io/portfolio/COVID-1
 
 ### Dashboard Preview
 
-Timeline of confirmed cases:
+##### Timeline of confirmed cases:
 
-<img src='/user_images/COVID-19 map blog post.JPG' width='300'>
+<img src='/user_images/COVID-19 map blog post.JPG'>
 
-How well is each country performing?
+##### How well is each country performing?
 
-<img src='/user_images/Days Since 100 Cases.jpg' width='300'>
+<img src='/user_images/Days Since 100 Cases.jpg'>
 
-<img src='/user_images/Weekly New vs Confirmed Cases.jpg' width='300'>
+<img src='/user_images/Weekly New vs Confirmed Cases.jpg'>
 
-Comparison between active severe cases and available ICU beds:
+##### Comparison between active severe cases and available ICU beds:
 
-<img src='/user_images/Active and Severe Cases US.JPG' width='300'>
+<img src='/user_images/Active and Severe Cases US.JPG'>
 
-Country comparison for new cases and deaths:
+##### Country comparison for new cases and deaths:
 
-<img src='/user_images/Compare Countries.JPG' width='300'>
+<img src='/user_images/Compare Countries.JPG'>
